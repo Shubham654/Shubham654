@@ -100,8 +100,8 @@ I am **Shubham Chambhare**, a sophomore majoring in Computer Science and Enginee
   </tbody>
 </table>    
 
-### Project - [Alphere](https://github.com/Shubham654/AlphaCoders_Alphere)
-<details><summary><i>A distinctive approach to promote social distancing and fast track commuting details</i></summary>
+### Project - [PortFolioApp](https://github.com/Shubham654/MyPortfolioApp)
+<details><summary><i>A distinctive approach to show resume and info about me</i></summary>
 <p>
     <h4>Introducing: alphCapture | alphRecord | alphTrack </h4>
     <img src='https://github.com/RiyaMathew-11/RiyaMathew-11/blob/master/media/AlphCapture01.png' width=350px> &nbsp

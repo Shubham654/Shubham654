@@ -3,7 +3,7 @@
     <img src="https://github.com/Shubham654/Shubham654/blob/main/ML%20img.gif" | width = 350 align="right">
 </p>
 
-![](https://komarev.com/ghpvc/?username=RiyaMathew-11&color=010040&style=flat-square)<br>
+![](https://komarev.com/ghpvc/?username=Shubham654&color=010040&style=flat-square)<br>
 <img src='https://img.shields.io/badge/AI/ML%20Enthusiast-555555?style=for-the-badge&logoColor=white'>
 
 

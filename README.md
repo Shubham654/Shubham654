@@ -122,8 +122,6 @@ I am **Shubham Chambhare**, a sophomore majoring in Computer Science and Enginee
 
  ![Shubham's github stats](https://github-readme-stats.vercel.app/api?username=Shubham654&show_icons=true&hide_border=true)
   <br />
-   ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Shubham654.Shubham654)
-   <br />
    <br />
    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Shubham654&theme=dracula&hide_border=true)](https://git.io/streak-stats)
 

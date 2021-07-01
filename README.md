@@ -148,5 +148,10 @@ I am **Shubham Chambhare**, a sophomore majoring in Computer Science and Enginee
   <a href="https://twitter.com/Shubham654_">
     <img src="https://img.shields.io/badge/twitter-%230077D4.svg?&style=flat-square&logo=twitter&logoColor=white">
   </a>
+    
+   <a href="https://shubham654.medium.com/">
+    <img src="https://img.shields.io/badge/medium-%230077D4.svg?&style=flat-square&logo=medium&logoColor=white">
+   </a>
+    
 </p>
 </h1>

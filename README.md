@@ -120,9 +120,8 @@ I am **Shubham Chambhare**, a sophomore majoring in Computer Science and Enginee
 
 <div align = "center">
 
- ![Shubham's github stats](https://github-readme-stats.vercel.app/api?username=Shubham654&show_icons=true&hide_border=true)
-  <br />
-   <br />
+ ![Shubham's github stats](https://github-readme-stats.vercel.app/api?username=Shubham654&show_icons=true&hide_border=truetitle_color=3793c4&icon_color=ffbb00&text_color=ffffff&bg_color=000000)
+    <br/>
    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Shubham654&theme=dracula&hide_border=true)](https://git.io/streak-stats)
 
 

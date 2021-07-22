@@ -27,8 +27,8 @@ I am **Shubham Chambhare**, a sophomore majoring in Computer Science and Enginee
         <img height="64px" src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg">
       </td>
       <td width="25%" align="center">
-        <span>C</span><br><br><br>
-        <img height="64px" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png">
+        <span>Java</span><br><br><br>
+        <img height="64px" src="https://github.com/Shubham654/Shubham654/blob/main/java.png">
       </td>
       <td width="25%" align="center">
         <span><strong>C++</strong>

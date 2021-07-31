@@ -7,10 +7,10 @@
 <img src='https://img.shields.io/badge/AI/ML%20Enthusiast-555555?style=for-the-badge&logoColor=white'>
 
 
-I am **Shubham Chambhare**, a sophomore majoring in Computer Science and Engineering. I love to work with `Python`, `C` and `Flutter`. I’m currently looking through `Machine Learning` and `Competitive Programming`
+I am **Shubham Chambhare**, a sophomore majoring in Computer Science and Engineering. I love to work with `Python`, `Java` and `Flutter`. I’m currently looking through `Machine Learning` and `Competitive Programming`
 
-- I'm interested in `App Development` and `Web Development`
-- Ask me about `Python` and `C`.
+- I'm interested in `App Development` and `Data Science`
+- Ask me about `Python` and `Java`.
 - Also focussed on improving my `Data Structures and Algorithms` and `Problem Solving Skills`
 
 ### 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
